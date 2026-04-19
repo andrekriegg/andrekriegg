@@ -1,3 +1,10 @@
 
 </a>
-<p align="center"><p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=fleurpicnics&label=cutiez&color=000000&style=plastic"> </dir> </p>  <p align="center"><img width="700" height="700" src="https://github.com/user-attachments/assets/dd25c4cd-5471-485b-8162-1266a6e61534" />
+<p align="center"><p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=andrekriegmann&label=population&color=82604F&style=plastic"> </dir> </p>
+  <p align="center"><img width="400" height="400" src="https://github.com/user-attachments/assets/584b3017-c4f7-4739-b3f4-327c27b34596" />
+  </p> ‎ ‎ 
+  <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w2sivkvph6nrlpaordtpdybgjm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=717171&bar_color_cover=false">
+  </a>
+    </p>
